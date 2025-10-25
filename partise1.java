@@ -18,5 +18,7 @@ public class Main {
         c = c + 100;
         System.out.println("x = " + x);
         System.out.println("n + " + n);
+        int b = 3;
+        System.out.println(v);
     }
 }
